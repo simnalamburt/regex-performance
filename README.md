@@ -1,5 +1,13 @@
 # Regex Performance
 [![Build Status](https://travis-ci.org/rust-leipzig/regex-performance.svg?branch=master)](https://travis-ci.org/rust-leipzig/regex-performance)
+[![Docker Badge]][Docker Link]
+
+[Docker Badge]: https://badgen.net/badge/icon/github%20container%20registry?icon=docker&label
+[Docker Link]: https://github.com/users/simnalamburt/packages/container/regex-performance
+
+```bash
+docker run ghcr.io/simnalamburt/regex-performance
+```
 
 ## Introduction
 Regular expressions are commonly used in pattern search algorithms.
